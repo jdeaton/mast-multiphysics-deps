@@ -1,1 +1,7 @@
 packages/
+bin/
+include/
+lib/
+libexec/
+share/
+.DS_Store
